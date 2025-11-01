@@ -1,4 +1,4 @@
-# Projek Iseng Toko Online
+# Projek Toko Online
 
 # Laravel & MySQL
 
